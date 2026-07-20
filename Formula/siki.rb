@@ -1,8 +1,8 @@
 class Siki < Formula
   desc "TUI orchestrator for managing multiple Claude Code worktree sessions"
   homepage "https://github.com/drapon/siki"
-  url "https://github.com/drapon/siki/archive/refs/tags/v0.1.44.tar.gz"
-  sha256 "66d71c4184f373310e0e09c6a74f745470b557d69272de38fac848a66789001a"
+  url "https://github.com/drapon/siki/archive/refs/tags/v0.1.45.tar.gz"
+  sha256 "21688af539af2d8e635ab539753ba3d82426dad26559b180160e266902b7bf88"
   license "MIT"
 
   depends_on "rust" => :build
